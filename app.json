@@ -3,6 +3,11 @@
   "description": "File sharing and torrent downloading",
   "repository": "https://github.com/Lunik/tcloud",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "torrent",
+    "webtorrent",
+    "cloud"
+  ],
   "env": {
     "MASTER_KEY": {
       "description": "The key to administrate the app.",
@@ -18,5 +23,4 @@
       "value": "heroku"
     }
   }
-}
 }
