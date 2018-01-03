@@ -1,0 +1,11 @@
+{
+  "name": "Tcloud",
+  "description": "File sharing and torrent downloading",
+  "repository": "https://github.com/Lunik/tcloud",
+  "env": {
+    "MASTER_KEY": {
+      "description": "The key to administrate the app.",
+      "required": true
+    },
+}
+}
