@@ -70,4 +70,7 @@
     "torrent-search-api": "^1.0.25",
     "webtorrent": "^0.98.20"
   },
-}
+    "engines": {
+    "node": ">=9.2.0"
+  }
+ }
