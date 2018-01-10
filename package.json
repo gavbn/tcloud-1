@@ -16,12 +16,6 @@
     "type": "git",
     "url": "git+https://github.com/Lunik/tcloud.git"
   },
-  "author": "Guillaume Lunik",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Lunik/tcloud/issues"
-  },
-  "homepage": "https://github.com/Lunik/tcloud#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-loader": "^7.1.2",
@@ -75,8 +69,5 @@
     "socket.io-client": "^2.0.4",
     "torrent-search-api": "^1.0.25",
     "webtorrent": "^0.98.20"
-  },
-  "engines": {
-    "node": ">=9.2.0"
   },
 }
